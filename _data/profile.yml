@@ -22,17 +22,12 @@ orcid: 0000-0000-0000-0000
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  I am currently a Ph.D. candidate in the School of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). 
+  I received my Master's degree in Computer Technology from Dalian University of Technology (DLUT) in 2023 and my Bachelor's degree in Computer Science and Technology (with a focus on Japanese) from DLUT in 2020. 
+  My research primarily focuses on multimodal sensing and embodied intelligence.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/yatong.jpg
 
 education:
 - name: Shanghai Jiao Tong University
@@ -57,9 +52,17 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Scholarship of Academic Excellence
+  date: 2018, 2019
+- name: Scholarship of National Encouragement
+  date: 2019
+- name: Scholarship of Science and Technology Innovation
+  date: 2019
+- name: University-level "Three-Good" Student Award
+  date: 2019
+- name: Second Prize, 14th Liaoning Provincial "Challenge Cup" College Students' Extracurricular Academic Science and Technology Works Competition
+  date: 2019
+- name: First Prize, 15th Dalian University of Technology "Pandeng Cup" Academic Competition
+  date: 2019
+- name: Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
+  date: 2017
