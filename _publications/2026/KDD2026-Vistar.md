@@ -11,7 +11,7 @@ authors:
 - Bowen He
 - Ruijie Wang
 - Xiaomin Ouyang
-- Shengzhong Liu#
+- Shengzhong Liu
 - Jianxin Li
 - Fan Wu
 - Guihai Chen

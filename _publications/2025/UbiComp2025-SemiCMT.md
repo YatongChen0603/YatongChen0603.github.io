@@ -14,7 +14,7 @@ authors:
   - Chenzhi Hu
   - Tomoyoshi Kimura
   - Qinya Li
-  - Shengzhong Liu#
+  - Shengzhong Liu
   - Fan Wu
   - Guihai Chen
 links:
