@@ -4,9 +4,7 @@ date:           2026-8-25 10:00:00 +0800
 selected:       true
 pub:            "ACM SIGKDD"
 pub_date:       "2026"
-abstract: >-
-  This paper introduces Vistar, a novel self-supervised framework for inertial measurement unit (IMU) signal perception designed for large language models (LLMs).
-cover:          /assets/images/covers/vistar.png
+ccf: "A"
 authors:
 - Yatong Chen
 - Chenzhi Hu
