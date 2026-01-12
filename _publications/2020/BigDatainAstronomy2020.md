@@ -12,7 +12,7 @@ abstract: >-
 authors:
   - Yatong Chen
   - Rui Kong
-  - Linghe Kong#
+  - Linghe Kong
 links: 
   Paper: https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128190845000067
 ---

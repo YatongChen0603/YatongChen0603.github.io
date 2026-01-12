@@ -14,7 +14,7 @@ authors:
   - Huangxun Chen
   - Shuo Yang
   - Xiaofeng Gao
-  - Fan Wu#
+  - Fan Wu
 links:
   Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7969168
 ---

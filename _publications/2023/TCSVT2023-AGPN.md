@@ -12,7 +12,7 @@ sci: "Q1"
 # cover:          /assets/images/covers/AGPN.png
 authors:
   - Yatong Chen
-  - Hongwei Ge#
+  - Hongwei Ge
   - Yuxuan Liu
   - Xinye Cai
   - Liang Sun

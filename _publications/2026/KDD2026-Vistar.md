@@ -17,5 +17,4 @@ authors:
 - Guihai Chen
 links:
   Paper: https://www.cell.com
-  Demo: https://anonymous.4open.science/r/Vistar-D011/vistar_demo.mp4
 ---
