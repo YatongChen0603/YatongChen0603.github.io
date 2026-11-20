@@ -1,4 +1,5 @@
 ---
+pub_short: "ACM SenSys"
 title:          "Phymask: An adaptive masking paradigm for efficient self-supervised learning in iot"
 date:           2024-11-04 00:01:00 +0800
 selected:       false

@@ -1,4 +1,5 @@
 ---
+pub_short: "IEEE/ACM IWQoS"
 title:          "Jump-start crowdsensing: A three-layer incentive framework for mobile crowdsensing"
 date:           2017-06-14 00:01:00 +0800
 selected:       true

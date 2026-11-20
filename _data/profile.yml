@@ -22,9 +22,9 @@ orcid: 0000-0002-8954-9109
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  I am currently a Ph.D. candidate in the School of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). 
-  I received my Master's degree in Computer Technology from Dalian University of Technology (DLUT) in 2023 and my Bachelor's degree in Computer Science and Technology (with a focus on Japanese) from DLUT in 2020. 
-  My research primarily focuses on multimodal sensing and embodied intelligence.
+  I am currently a Ph.D. candidate in the School of Computer Science and Engineering at <strong>Shanghai Jiao Tong University (SJTU)</strong>.
+  I received my Master's degree in Computer Technology from <strong>Dalian University of Technology (DLUT)</strong> in 2023 and my Bachelor's degree in Computer Science and Technology (with a focus on Japanese) from DLUT in 2020.
+  My research primarily focuses on <strong>multimodal sensing</strong> and <strong>embodied intelligence</strong>.
   </p>
 
 portrait_url: /assets/images/photos/yatong.jpg
@@ -32,7 +32,7 @@ portrait_url: /assets/images/photos/yatong.jpg
 education:
 - name: Shanghai Jiao Tong University
   logo: /assets/images/badges/SJTU.png
-  position: >- 
+  position: >-
     Department of Computer Science <br/>
     Ph.D. Student
   date: Sep. 2023 - present

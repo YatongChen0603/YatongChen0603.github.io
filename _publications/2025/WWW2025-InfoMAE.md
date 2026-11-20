@@ -1,4 +1,5 @@
 ---
+pub_short: "ACM WWW"
 title:          "InfoMAE: Pair-efficient cross-modal alignment for multimodal time-series sensing signals"
 date:           2025-04-28 00:01:00 +0800
 selected:       false

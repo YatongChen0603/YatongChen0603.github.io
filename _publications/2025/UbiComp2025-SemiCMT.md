@@ -1,4 +1,5 @@
 ---
+pub_short: "ACM IMWUT / UbiComp"
 title:          "SemiCMT: Contrastive cross-modal knowledge transfer for iot sensing with semi-paired multi-modal signals"
 date:           2025-10-21 00:01:00 +0800
 selected:       true

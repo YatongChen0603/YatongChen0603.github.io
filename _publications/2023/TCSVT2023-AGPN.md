@@ -1,4 +1,5 @@
 ---
+pub_short: "IEEE TCSVT"
 title:          "AGPN: Action granularity pyramid network for video action recognition"
 date:           2023-02-12 00:01:00 +0800
 selected:       true

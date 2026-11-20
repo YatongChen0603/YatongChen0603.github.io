@@ -1,4 +1,5 @@
 ---
+pub_short: "ACM IMWUT / UbiComp"
 title:          "OpenMAE: efficient masked autoencoder for vibration sensing with open-domain data enrichment"
 date:           2025-06-18 00:01:00 +0800
 selected:       false
