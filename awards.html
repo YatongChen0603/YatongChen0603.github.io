@@ -1,0 +1,22 @@
+---
+layout: default
+title: Honors & Awards
+navbar_title: Honors & Awards
+permalink: /awards
+---
+
+<h2 class="pt-4">Honors &amp; Awards</h2>
+<div class="card border-0 shadow-sm bg-white rounded-xl">
+    <div class="card-body p-4">
+        <ul class="mb-0 pl-3">
+            {% for item in site.data.profile.awards %}
+            <li class="mb-3">
+                <div class="d-flex flex-column flex-sm-row">
+                    <div class="pr-sm-4">{{ item.name }}</div>
+                    <div class="ml-sm-auto text-muted no-break"><em>{{ item.date }}</em></div>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
